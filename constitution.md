@@ -244,7 +244,7 @@ Any member may initiate officers' removal by the following procedure:
 
     e. Activities that interfere with an individual's academic efforts by causing exhaustion of loss of reasonable study time.
 
-4. The Chapter **does not** discriminate against qualified members of the University on the basis of their race, color, creed, religion, national origin, sex, gender, age, marital status, ability, or veteran status.
+4. Anti-Discrimination: The University of Cincinnati does not discriminate on the basis of disability, race, color, religion, except for religious qualifications which may be required by organizations whose aims are primarily sectarian, national origin, ancestry, medical condition, genetic information, marital status, parental status (including status as a foster parent), sex, age, sexual orientation, military status (past, present, or future), or gender identity and expression in its programs and activities.
 
 5. Any member violating these bylaws in regard to hazing/discrimination shall lose all privileges of membership. They will be subject to any applicable University policies and applicable state of Ohio laws.
 
